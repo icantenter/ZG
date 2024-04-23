@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root imageWidth='670' imageHeight='320'>
+<menu url="images/01.jpg" frame="_parent" imageUrl="images/01.jpg"/>
+<menu url="images/02.jpg" frame="_parent" imageUrl="images/02.jpg"/>
+<menu url="images/03.jpg" frame="_parent" imageUrl="images/03.jpg"/>
+<menu url="images/04.jpg" frame="_parent" imageUrl="images/04.jpg"/>
+<menu url="images/05.jpg" frame="_parent" imageUrl="images/05.jpg"/>
+<menu url="images/06.jpg" frame="_parent" imageUrl="images/06.jpg"/>
+<menu url="images/07.jpg" frame="_parent" imageUrl="images/07.jpg"/>
+<menu url="images/08.jpg" frame="_parent" imageUrl="images/08.jpg"/>
+</root>
